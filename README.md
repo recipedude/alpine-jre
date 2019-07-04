@@ -1,8 +1,8 @@
-# docker-jre
-Alpine 3.10 + JRE (IcedTea) 8.212.04-r0 docker image
+# alpine-jre
+Alpine 3.10 + JRE (OpenJDK) 11+28 docker image
 
 ## Usage
 
 ```
-docker pull recipedude/alpine-jre:8.212.04-r0
+docker pull recipedude/alpine-jre:3.10-jre11
 ```
